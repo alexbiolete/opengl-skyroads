@@ -1,0 +1,28 @@
+Changelog
+---------
+
+-------
+TO DO:
+- Add boolean value "gap" to each platform which is somehow generated randomly, 
+instead of having multiple platforms overlapping on the same position.
+-------
+
+----------------------------
+v1.2 - Platform generation fixed
+----------------------------
+- Added logic to generate the map completely random the whole game, 
+compared to previous release, when a big chunk of randomly-generated 
+platforms would repeat infinitely.
+- Changed background color to a very dark blue.
+----------------------------
+
+----------------------
+v1.1 - Minor changes
+----------------------
+- Added deformation animation when passing on a gray platform.
+- Speed bar now becomes green when the pedals are jammed.
+----------------------
+
+----------------------
+v1.0 - Initial submission
+----------------------
