@@ -15,3 +15,8 @@ Jocul poate fi reinceput chiar si cand jucatorul ramane fara vieti,
 cu o noua harta generata, prin apasarea tastei ENTER.
 
 De asemenea, am implementat metodele de iluminare Phong si Spot-light. 
+
+Modul in care generez platformele este gresit, deoarece se suprapun si 
+uneori pot exista platforme speciale care sunt suprapuse cu platforme 
+normale, astfel se pot activa efecte "din senin". Nu am mai avut timp 
+sa modific.
